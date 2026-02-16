@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Nyoike Kamau
+# 👋 Hi, I'm Paul Kamau Nyoike
 
 **Senior-focused Full-Stack Engineer | Enterprise & FinTech Specialist**
 Based in Nairobi, Kenya 🇰🇪 (EAT timezone — compatible with US/EU workflows)
