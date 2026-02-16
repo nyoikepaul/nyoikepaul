@@ -1,3 +1,5 @@
+markdown
+
 # 👋 Hi, I'm Paul Nyoike Kamau
 
 **Full-Stack Developer** from Nairobi, Kenya 🇰🇪  
@@ -20,3 +22,55 @@ Open to freelance gigs on **Upwork** – let's turn your ideas into reality! �
 Frontend      → React, Next.js, Tailwind CSS, TypeScript
 Backend       → Node.js, NestJS, Express, PostgreSQL, Prisma
 Tools & Other → Git, Docker, Vercel, Railway, TurboRepo, Odoo/ERP, M-Pesa Integrations
+
+React
+Next.js
+Tailwind CSS
+NestJS
+Node.js
+PostgreSQL
+TypeScript
+Prisma Featured ProjectsProject
+Description
+Tech Stack
+Live Demo
+Repo
+DigitalFirst Solutions
+Professional portfolio & project hub with modern full-stack features and responsive design
+React, Tailwind CSS, Vercel
+ Live Demo
+Repo
+Nexus Flow
+Enterprise-grade workflow engine with real-time tracking, task automation, and scalable backend
+Next.js, NestJS, Prisma, PostgreSQL, TurboRepo
+ Live Demo <!-- Deploy on Vercel/Railway -->
+Repo
+Enterprise ProSite
+High-performance corporate site with secure portals and business automation
+React, PocketBase/Railway
+ Live Demo <!-- Deploy -->
+Repo
+Custom Logistics OS
+Modular supply chain system customized for Kenyan/African markets
+JavaScript, Node.js
+ Live Demo <!-- Deploy -->
+Repo
+
+Pro Tip: Live demos are huge for clients – deploy today and watch proposals improve!
+ Project Highlights<!-- Replace with your real screenshots/GIFs – upload to this repo's assets or Imgur -->
+DigitalFirst Solutions
+Nexus Flow Dashboard
+Enterprise ProSite GitHub Stats<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyoikepaul&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="50%"/>
+
+ About MePassionate about solving real business challenges with clean, efficient code. Experienced in BridgeERP (Odoo-based), FinTech (M-Pesa), and full-stack development. I deliver user-focused, scalable solutions that boost growth and automation.Currently freelancing on Upwork – expert in:Custom dashboards & CRMs
+Workflow/automation systems
+Secure PostgreSQL backends
+Modern React/Next.js frontends
+
+Ready to collaborate? Message me on Upwork or here! ConnectContributions welcome – fork and PR!
+Profile feedback? Open an issue.
+
+ LicenseMIT License
+```
+
