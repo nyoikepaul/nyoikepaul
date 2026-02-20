@@ -21,14 +21,16 @@ I build scalable, production-ready systems including **ERP customizations, workf
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack | Repo |
-| :--- | :--- | :--- | :--- |
-| **Nexus Flow** | Enterprise-grade workflow engine for scalable task automation. | TypeScript, Node.js | [Link](https://github.com/nyoikepaul/nexus-flow) |
-| **DigitalFirst Solutions** | Full-stack business hub and professional portfolio showcase. | React, Tailwind, Vercel | [Link](https://github.com/nyoikepaul/digitalFirst-solutions) |
-| **Enterprise ProSite** | High-performance corporate site optimized for business conversion. | React, HTML/CSS | [Link](https://github.com/nyoikepaul/enterprise-prosite) |
+## 🚀 Featured Projects
 
----
+| Preview | Description |
+|--------|-------------|
+| <a href="https://github.com/nyoikepaul/digitalFirst-solutions"><img src="https://raw.githubusercontent.com/nyoikepaul/nyoikepaul/main/images/digitalfirst-thumbnail.png" alt="DigitalFirst Solutions" width="100%"/></a> | **DigitalFirst Solutions**<br>Modern full-stack portfolio & business showcase.<br>🔗 **Live Demo:** [View here](https://my-portfolio-smoky-seven-57.vercel.app)<br>🛠️ Tech: React • Tailwind • TypeScript • Vite • Vercel |
+| <a href="https://github.com/nyoikepaul/nexus-flow"><img src="https://raw.githubusercontent.com/nyoikepaul/nyoikepaul/main/images/nexusflow-thumbnail.png" alt="Nexus Flow" width="100%"/></a> | **Nexus Flow**<br>Enterprise-grade workflow engine with auth & orchestration.<br>🔗 API documentation included.<br>🛠️ Tech: NestJS • TypeScript • Prisma • PostgreSQL |
+| <a href="https://github.com/nyoikepaul/medusa-payment-mpesa"><img src="https://raw.githubusercontent.com/nyoikepaul/nyoikepaul/main/images/mpesa-thumbnail.png" alt="M-Pesa Gateway" width="100%"/></a> | **Medusa M-Pesa Payment Gateway**<br>Production-ready STK Push for e-commerce platforms.<br>💳 Perfect for FinTech & East African markets.<br>🛠️ Tech: Node.js • TypeScript • Express • WooCommerce/MedusaJS |
+| <a href="https://github.com/nyoikepaul/ghana_real_estate"><img src="https://raw.githubusercontent.com/nyoikepaul/nyoikepaul/main/images/ghana-real-estate-thumbnail.png" alt="Ghana Real Estate Odoo" width="100%"/></a> | **Ghana Real Estate Odoo Module**<br>Custom ERP for property management workflows.<br>🏠 Demonstrates enterprise customization.<br>🛠️ Tech: Odoo • Python • PostgreSQL • XML Views |
+
+> 👉 [View all repositories](https://github.com/nyoikepaul?tab=repositories)
 
 ### 📊 Engineering Impact
 <p align="left">
