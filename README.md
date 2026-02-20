@@ -40,6 +40,10 @@ I build scalable, production-ready systems including **ERP customizations, workf
 
 > 👉 [View all repositories](https://github.com/nyoikepaul?tab=repositories)
 
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nyoikepaul&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="Streak" />
+
 ### 📊 Engineering Impact
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
