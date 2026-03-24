@@ -7,7 +7,7 @@
 </div>
 
 
-I architect **high-availability systems**, deliver **production-ready software products **  that eliminate operational bottlenecks across Africa and beyond.
+I architect high-availability systems, deliver production-ready software products  that eliminate operational bottlenecks across Africa and beyond.
 
 [![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-kamau-714a1a225/)
