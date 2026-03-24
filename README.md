@@ -1,4 +1,4 @@
-# Hi, I'm Paul Kamau Nyoike 👋
+# Hi, I'm Paul Kamau Nyoike 
 
 <img src="https://avatars.githubusercontent.com/u/63657593?v=4" align="left" width="150" style="border-radius: 50%; margin-right: 20px;"/>
 
