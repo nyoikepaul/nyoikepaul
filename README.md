@@ -10,7 +10,7 @@
  Senior Backend Engineer building production-grade APIs, ERP systems, and fintech integrations across Africa.
 I architect high-availability systems, deliver production-ready software products  that eliminate operational bottlenecks across Africa and beyond.
 
-[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-kamau-714a1a225/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paulNyoike2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-smoky-seven-57.vercel.app)
