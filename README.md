@@ -51,42 +51,6 @@ I architect high-availability systems, deliver production-ready software product
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nyoikepaul&theme=github-compact&hide_border=true&color=c8ff00&line=c8ff00&point=ffffff)
 
-###  Featured Open-Source Work
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4> Enterprise & ERP</h4>
-      <ul>
-        <li><b><a href="https://github.com/nyoikepaul/ghana_real_estate">Ghana Real Estate CRM (Odoo 16)</a></b><br/>Full custom Odoo module — property CRM, agent portals, GHS pricing, complex workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4> FinTech & Payments</h4>
-      <ul>
-        <li><b><a href="https://github.com/nyoikepaul/medusa-payment-mpesa">MedusaJS M-Pesa Gateway</a></b><br/>Production-ready Daraja 2.0 integration (STK Push + Webhooks) with robust logging</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> APIs & Backend</h4>
-      <ul>
-        <li><b><a href="https://github.com/nyoikepaul/fastapi-product-catalog">High-Performance Product Catalog</a></b><br/>Secure FastAPI REST API with API Key auth, Docker & automated deployment</li>
-        <li><b><a href="https://github.com/nyoikepaul/ai-saas-app">AI Multi-modal SaaS Engine</a></b><br/>Scalable Python backend for AI prompt & multi-modal processing</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4> DevOps & Dashboards</h4>
-      <ul>
-        <li><b><a href="https://github.com/nyoikepaul/bash-cloud-forge">Bash Cloud Forge</a></b><br/>Pure Bash toolkit for rapid provisioning, hardening & deployment (DO + AWS)</li>
-        <li><b><a href="https://github.com/nyoikepaul/gigflow">GigFlow Analytics Dashboard</a></b><br/>Premium Next.js 16 freelance dashboard with TypeScript, Tailwind & Zustand</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ###  GitHub Activity
 
